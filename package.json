@@ -1,0 +1,26 @@
+{
+  "name": "1st-steps",
+  "version": "1.0.0",
+  "description": "Repository for practice",
+  "main": "index.js",
+  "scripts": {
+    "prod": "webpack --mode=production",
+    "dev": "webpack-dev-server --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungSandw1ch/1st-steps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoungSandw1ch/1st-steps/issues"
+  },
+  "homepage": "https://github.com/YoungSandw1ch/1st-steps#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.10.0"
+  }
+}
